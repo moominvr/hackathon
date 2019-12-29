@@ -1,10 +1,14 @@
-# Hackathon Ideas
+# Hackathon Ideas 黑客松提议
 
 This is list of ideas for hackathon, feel free to choose one or come up with your own.
+我们提供了这个黑客马拉松的想法清单，您可以选择一个想法，也可以自己构思来参加比赛。
 
-## Finance
+
+## Finance 去中心化金融
 
 * Uniswap for NEAR to fungible tokens (see for fungible token standard - http://github.com/nearprotocol/neps/pull/21).
+在NEAR上实现Uniswap，用NEAR来交易其他的fungible tokens (详情可见fungible token标准http://github.com/nearprotocol/neps/pull/21).
+
 * Basic insurance on chain: for example ensure Bitcoin price within some bounds (e.g. a derivative), have a market of offers and supplier of insurnace. Oracle that would provide the source of truth for resolving the event.
 
 ## Gaming
