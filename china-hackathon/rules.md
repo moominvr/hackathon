@@ -11,7 +11,7 @@ IF YOU DO NOT MEET ANY OF THESE REQUIREMENTS, OR ANY OTHER ELIGIBILITY REQUIREME
 
 
 ## Contest Period: 
-The Contest starts at 12:00:00 p.m. China Time (GMT+8) on Dec 30th, 2019 and ends at 11:59:00 p.m. (PT) on Jan 7th, 2020 after all Presentations (defined below) are complete (the “Contest Period”). All entries must be received during the Contest Period and meet other requirements in these Official Rules to be eligible to win a prize. Sponsor’s or its designee’s computer is the official time-keeping device for the Contest.
+The Contest starts at 12:00:00 p.m. China Time (GMT+8) on Dec 30th, 2019 and ends at 11:59:00 p.m. (GMT+8) on Jan 7th, 2020 after all Presentations (defined below) are complete (the “Contest Period”). All entries must be received during the Contest Period and meet other requirements in these Official Rules to be eligible to win a prize. Sponsor’s or its designee’s computer is the official time-keeping device for the Contest.
 
 
 ## How to Enter:
