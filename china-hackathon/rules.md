@@ -66,9 +66,9 @@ Secret Prizes: A panel of Judges will evaluate and score each eligible Submissio
 
 ## Prize: 
 The prizes will be awarded as follows:
- a. Best Overall Submission: One winner will receive ¥2000 RMB and 5000 NEAR tokens on the future MainNet pending MainNet launch.
- b. Runner-Up Best Overall Submission: One winner will receive ¥1000 RMB and 3000 NEAR tokens on the future MainNet pending MainNet launch.
- c. Third-Place Best Overall Submission: One winner will receive ¥500 RMB and 1000 NEAR tokens on future MainNet pending MainNet launch.
+ a. Best Overall Submission: One winner will receive ¥5000 RMB and 5000 NEAR tokens on the future MainNet pending MainNet launch.
+ b. Runner-Up Best Overall Submission: One winner will receive ¥3000 RMB and 3000 NEAR tokens on the future MainNet pending MainNet launch.
+ c. Third-Place Best Overall Submission: One winner will receive ¥1000 RMB and 1000 NEAR tokens on future MainNet pending MainNet launch.
  
  Prize Restrictions: ALL APPLICABLE TAXES ASSOCIATED WITH THE RECEIPT OR USE OF ANY PRIZE ARE THE SOLE RESPONSIBILITY OF THE WINNER. Prizes are not transferable. No substitutions or exchanges of any prize (including for cash) will be permitted, except that Sponsor reserves the right to substitute a prize of comparable or greater value for any prize. Sponsor will not replace any lost or stolen prizes or prize components. Only the number of prizes stated in these Official Rules are available to be won in the Contest.
  Except for applicable manufacturer’s standard warranties, the prize is awarded “AS IS” and WITHOUT WARRANTY OF ANY KIND, express or implied (including any implied warranty of merchantability or fitness for a particular purpose).
